@@ -1,5 +1,4 @@
 # NLP_Term_Project
-Sure, here is an example readme file for this code:
 
 # BBC News Classification using NLP
 
